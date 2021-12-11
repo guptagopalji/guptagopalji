@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-author SparkByExamples.com
+author Gopal Gupta
 """
 
 import pyspark
